@@ -1,0 +1,2 @@
+// Prefix header for all source files of the 'ambiEncoder' target in the 'ambiEncoder' project.
+#include "pluginterfaces/base/fplatform.h"

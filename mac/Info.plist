@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSHumanReadableCopyright</key>
+  <string>2017, Rodolfo Cangiotti</string>
+  <key>CFBundleDevelopmentRegion</key>
+	<string>Italian</string>
+	<key>CFBundleExecutable</key>
+	<string>ambiEncoder</string>
+	<key>CFBundleIconFile</key>
+	<string></string>
+	<key>CFBundleIdentifier</key>
+	<string>com.rodolfocangiotti.vst3.ambiencoder</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+  <key>CFBundleName</key>
+  <string>Ambisonic Encoder</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleSignature</key>
+	<string>Rodolfo Cangiotti</string>
+  <key>CFBundleVersion</key>
+	<string>1.0</string>
+  <key>CFBundleShortVersionString</key>
+  <string>1.0</string>
+  <key>CSResourcesFileMapped</key>
+	<true/>
+</dict>
+</plist>
